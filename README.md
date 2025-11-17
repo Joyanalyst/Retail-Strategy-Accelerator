@@ -2,13 +2,13 @@
 ### Toolset: Excel Power Pivot, DAX, Financial Modeling, Data Modeling
 ### Timeline: 2023–2025 (Synthetic Dataset from [Excel.com](https://excelx.com/practice-data/sales-retail/))
 ## Table of Contents
-### [Project Overview](ProjectOverview)
-### [Key Techniques](KeyTechniques)
-### [Executive Summary](ExecutiveSummary)
-### [Insight Deep Dive](InsightDeepDive)
-### [Recommendations](Recommendations)
-### [Business Impact](BusinessImpact)
-### [Limitations](Limitations)
+- [Project Overview](#project-overview)
+- [Key Techniques](#key-techniques)
+- [Executive Summary](#executive-summary)
+- [Insight Deep Dive](#insight-deep-dive)
+- [Recommendations](#recommendations)
+- [Business Impact](#business-impact)
+- [Limitations](#limitations)
 
 
 ## Project Overview
