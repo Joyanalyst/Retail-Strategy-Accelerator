@@ -51,7 +51,7 @@
 ### 	Optimize Promotions: Focus future campaigns on proven performers like FREESHIP.
 ### 	 Improve Lead Time in Northern Region: Audit logistics and fulfillment processes in the North. Partner with faster carriers or optimize warehouse dispatch schedules.
 ### 	Target Retail Customers for Upselling: Launch premium bundles or loyalty programs for retail customers. Utilize personalized offers to increase average transaction value.
-### 	Balance Quarterly Campaigns: Analyze low-growth quarters and align promotions or product launches to boost performance. Considering seasonal bundling or flash sales during historically slow periods.
+### 	Balance Quarterly Campaigns: Analyze low-growth quarters and align promotions or product launches to boost performance. Consider seasonal bundling or flash sales during historically slow periods.
 ### 	Explore Margin Expansion: Identify products with stable demand and test price elasticity to increase margins. Negotiate better supplier terms for high-volume items.
 ## Business Impact
 ### This dashboard serves as a retail strategy accelerator, not just a reporting tool. It enables data-driven decisions across marketing, supply chain, and product development, helping businesses shift from reactive operations to proactive growth planning.
